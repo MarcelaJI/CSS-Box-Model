@@ -1,0 +1,24 @@
+div{
+    width: 200px;
+    height: 200px;
+  }
+
+  p{
+    margin: 0px;
+  }
+  #first{
+    background: yellowgreen;
+    padding: 20px;
+    border: 10px solid black;
+  }
+  #second{
+    background: lightsalmon;
+    border: solid black;
+    border-width: 20px 10px;
+    margin-left: 260px; 
+  }
+  #third{
+    background-color: aquamarine;
+    border: 10px;border: 10px solid black;
+    margin-left: 40px;
+  }
